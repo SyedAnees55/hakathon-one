@@ -48,7 +48,7 @@ export default function Contact() {
               className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
               placeholder="Your Message"
               required
-              rows="5"
+              rows={5}
             ></textarea>
           </div>
           <div className="flex items-center justify-between">
