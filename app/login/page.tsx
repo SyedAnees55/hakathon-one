@@ -58,7 +58,7 @@ export default function Login() {
         </form>
         <div className="mt-6 text-center">
           
-            Don't have an account?
+            Don not have an account?
             <a href="/singup" className="text-blue-500 hover:text-blue-800">
               Sign Up
             </a>
