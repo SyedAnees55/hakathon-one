@@ -57,12 +57,12 @@ export default function Login() {
           </div>
         </form>
         <div className="mt-6 text-center">
-          <p className="text-gray-700">
+          
             Don't have an account?
             <a href="/singup" className="text-blue-500 hover:text-blue-800">
               Sign Up
             </a>
-          </p>
+          
         </div>
       </div>
     </div>
