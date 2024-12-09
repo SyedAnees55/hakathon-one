@@ -94,7 +94,7 @@ const ProductListing = () => {
                     <div className="flex items-center gap-4">
                       <h1>Amount:</h1>
                       <button className="flex gap-4 bg-[#F5F5F5] rounded-md px-4 py-2">
-                        <span>+</span> 1 <span>-</span>
+                        <span>+</span> 0 <span>-</span>
                       </button>
                     </div>
                     <button className="w-full md:w-[146px] h-[56px] bg-[#2A254B] text-white mt-4 md:mt-0">
